@@ -28,4 +28,20 @@ With p-values far less than the .05% threshold, the vehicle's length and ground 
 
 With an overall p-value significantly below .05% threshold at 5.35e-11, we can reject the Null Hypothesis, therefore our model does not have a zero slope.
 
-With an R-squared value of .7149, this model is fairly effective at predicting mpg of MechaCar prototypes at 71.5%.
+With an R-squared value of .7149, this model is fairly effective at predicting mpg of MechaCar prototypes at 71.5%. <br> <br>
+
+
+### Summary Statistics on Suspension Coil
+
+<img width="389" alt="total_summary" src="https://user-images.githubusercontent.com/108758105/202886078-410c0212-f556-4cd1-9440-b40a7464901c.png">
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Collectively, it is apparent that the variance of 62.29356 is within the specified tolerance (image above). <br>
+
+Upon further inspection, however, it becomes clear that not all lots are performing equally.  Lot 1 and Lot 2 are performing extremely well with a variance of less than 1 and a variance of 7.5, respectively.  Lot 3, though, far exceeds design specifications with a PSI variance of 170.3 (image below). <br>
+
+<img width="544" alt="lot_summary" src="https://user-images.githubusercontent.com/108758105/202886328-42b93916-ca7b-497d-9dc3-dcde6fd0d1cb.png">
+
+> *The box plot visualization below can provide further clarification as to the disparity in Lot 3 and how it impacts collective lots performance*
+
+![lot_summary_boxplot](https://user-images.githubusercontent.com/108758105/202886525-929d68a3-f743-43c5-901b-956e7e60a822.png)
+
