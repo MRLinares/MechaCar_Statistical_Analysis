@@ -11,7 +11,7 @@
 > *Software:* &emsp; R 4.2.1, RStudio 2022.07.2+576 <br>
 > *Datasource:* &emsp; MechaCar_mpg.csv, Suspension_Coil.csv <br>
 
-### Identify Predictors of MPG
+### Identifying Predictors of MPG
 
 <img width="811" alt="linear_regression" src="https://user-images.githubusercontent.com/108758105/202879337-a13d2e43-34d2-4f4b-80b7-8cd45867c220.png"> <br> 
 
@@ -28,3 +28,4 @@ With p-values far less than the .05% threshold, the vehicle's length and ground 
 
 With an overall p-value significantly below .05% threshold at 5.35e-11, we can reject the Null Hypothesis, therefore our model does not have a zero slope.
 
+With an R-squared value of .7149, this model is fairly effective at predicting mpg of MechaCar prototypes at 71.5%.
