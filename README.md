@@ -70,4 +70,21 @@ The t-tests on the first two lots produced p-values exceedingly higher than the 
 > ***p-value = 0.04168***
 <img width="910" alt="lot3_tTest" src="https://user-images.githubusercontent.com/108758105/206065213-47a2b2b9-1d36-446d-a1ee-2cdff4841163.png">
 
-Lot 3 on the other hand is well within range of statistical significance with a p-value of 0.04168, giving us enough room to reject the null hypothesis
+Lot 3 on the other hand is well within range of statistical significance with a p-value of 0.04168, giving us enough room to reject the null hypothesis and deduce that there is a statistical difference between lot 3 and the presumed population mean.
+
+## Study Design: MechaChar vs Competition.
+
+Performance car sales is a game of brand and numbers, no one is bragging about a McClaren's safety rating. Highest horsepower, torque, price, etc.  Some companies find a sweetspot by offering the best value, however, and that would be the best strategy for AutosRUS.  Given the production issues, it may be best to accept offering the car at an optimal price that would overpower anything in it's price bracket and try to avoid going toe-to-toe with any brand founded on reliability.
+
+In order to perform this study we will need to focus on a few variables such as:
+
+&emsp;&emsp;&emsp; • Horsepower <br>
+&emsp;&emsp;&emsp; • Price <br>
+&emsp;&emsp;&emsp; • Drivetrain (AWD/FWD/RWD) <br>
+&emsp;&emsp;&emsp; • Engine Type (4cyl/6cyl/Hybrid/Electric, etc) <br>
+&emsp;&emsp;&emsp; • Doors (2dr/4dr/5dr) <br>
+
+These metrics will suffice to perform a comprehensive study.  With the Price being the dependent variable, we can create our Null and Alternate Hypothesis.
+
+> **NULL** Hypothesis - Based on the other metrics, and in comparison with the competition, the MechaCar is competitively priced. <br><br>
+> **ALTERNATE** Hypothesis - Based on the other metrics, and in comparison with the competition, the MechaCar is not competitively priced and must bne adjusted to compete.
