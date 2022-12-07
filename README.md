@@ -1,5 +1,6 @@
 # MechaCar Analysis
 
+![transparent-land-vehicle-vehicle-car-sports-car-muscle-car-5d8553d8957f56 1971325015690188406123](https://user-images.githubusercontent.com/108758105/206073381-b925f061-e527-4fd9-8fa7-49272123bd68.png)
 ## Overview 
 * Identify which variables in the dataset predict the mpg of MechaCar prototypes.
 * Collect summary statistics on the PSI (lbs/in^2) of the suspension coils from the manufacturing lots.
