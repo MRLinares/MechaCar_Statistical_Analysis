@@ -76,6 +76,11 @@ Lot 3 on the other hand is well within range of statistical significance with a 
 
 Performance car sales is a game of brand and numbers, no one is bragging about a McClaren's safety rating. Highest horsepower, torque, price, etc.  Some companies find a sweetspot by offering the best value, however, and that would be the best strategy for AutosRUS.  Given the production issues, it may be best to accept offering the car at an optimal price that would overpower anything in it's price bracket and try to avoid going toe-to-toe with any brand founded on reliability.
 
+
+![transparent-land-vehicle-vehicle-car-sports-car-hood-5d9dcb1001d974 0847425415706222240076](https://user-images.githubusercontent.com/108758105/206073192-d656a0c8-cb78-4ae9-9c5f-22c2fdcbf340.png)
+
+
+
 In order to perform this study we will need to focus on a few variables such as:
 
 &emsp;&emsp;&emsp; • Horsepower <br>
