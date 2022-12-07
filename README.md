@@ -64,7 +64,10 @@ After running a t-test on the suspension coil data using a presumed population m
 > ***p-value = 0.6072***
 <img width="904" alt="lot2_tTest" src="https://user-images.githubusercontent.com/108758105/206065162-da0001f4-043b-44a7-b1dc-287db0043a63.png">
 
+The t-tests on the first two lots produced p-values exceedingly higher than the requisite threshold for rejecting the null hypothesis.  With having a mean near exact to the presumed population mean, it is clear that these two lots are statistically similar and therefore we cannot reject the null hypothesis.
+
 > Lot 3 T-Test\
 > ***p-value = 0.04168***
 <img width="910" alt="lot3_tTest" src="https://user-images.githubusercontent.com/108758105/206065213-47a2b2b9-1d36-446d-a1ee-2cdff4841163.png">
 
+Lot 3 on the other hand is well within range of statistical significance with a p-value of 0.04168, giving us enough room to reject the null hypothesis
