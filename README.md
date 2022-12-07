@@ -42,9 +42,6 @@ Upon further inspection, however, it becomes clear that not all lots are perform
 
 <img width="544" alt="lot_summary" src="https://user-images.githubusercontent.com/108758105/202886328-42b93916-ca7b-497d-9dc3-dcde6fd0d1cb.png">
 
-> *The box plot visualization below can provide further clarification as to the disparity in Lot 3 and how it impacts collective lots performance*
-
-![lot_summary_boxplot](https://user-images.githubusercontent.com/108758105/202886525-929d68a3-f743-43c5-901b-956e7e60a822.png)
 
 ## T-Tests on Suspension Coils
 
