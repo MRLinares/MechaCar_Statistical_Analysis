@@ -86,5 +86,7 @@ In order to perform this study we will need to focus on a few variables such as:
 
 These metrics will suffice to perform a comprehensive study.  With the Price being the dependent variable, we can create our Null and Alternate Hypothesis.
 
-> **NULL** Hypothesis - Based on the other metrics, and in comparison with the competition, the MechaCar is competitively priced. <br><br>
-> **ALTERNATE** Hypothesis - Based on the other metrics, and in comparison with the competition, the MechaCar is not competitively priced and must bne adjusted to compete.
+> **NULL** Hypothesis - Based on the other metrics, and in comparison with the competition, the MechaCar is similarly (i.e. NOT competitively) priced and must be adjusted to compete. <br><br>
+> **ALTERNATE** Hypothesis - Based on the other metrics, and in comparison with the competition, the MechaCar is competitively priced (statistically different with respect to the performance metrics).
+
+Using the p-value of 0.05 as the standard and price as the dependant variable, we will test the MechaCar changing it's price to match competitor performance cars for comparisons.  We will utilize t-tests to guage statistical differences until we find a range where the MechaCar shows to have the highest value (most desireable/highest performance numbers within a specific price range).  The goal is to find a price range where we can reject the NULL hypothesis and accept the Alternate.
