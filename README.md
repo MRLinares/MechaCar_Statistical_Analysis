@@ -45,3 +45,26 @@ Upon further inspection, however, it becomes clear that not all lots are perform
 
 ![lot_summary_boxplot](https://user-images.githubusercontent.com/108758105/202886525-929d68a3-f743-43c5-901b-956e7e60a822.png)
 
+## T-Tests on Suspension Coils
+
+> Collective Lot T-Test
+
+<img width="911" alt="collectivePSI_tTest" src="https://user-images.githubusercontent.com/108758105/206062850-cc122358-a652-459d-be04-6566a855e13f.png">
+
+After running a t-test on the suspension coil data using a presumed population mean of 1500, the actual mean is 1498.78 and with a p-value of .06028 (higher than the minimim threshold of 0.05) there isn't enough evidence to reject the null hypothesis because here isn't much of a statistical difference between the actual mean and the presumed poulation mean.
+
+### Individual Lot T-Test
+
+> Lot 1 T-Test\
+> ***p-value = 1***
+<img width="914" alt="lot1_tTest" src="https://user-images.githubusercontent.com/108758105/206065112-f0e5c1e7-7366-45e4-bef9-adbd8a74e218.png">
+
+
+> Lot 2 T-Test\
+> ***p-value = 0.6072***
+<img width="904" alt="lot2_tTest" src="https://user-images.githubusercontent.com/108758105/206065162-da0001f4-043b-44a7-b1dc-287db0043a63.png">
+
+> Lot 3 T-Test\
+> ***p-value = 0.04168***
+<img width="910" alt="lot3_tTest" src="https://user-images.githubusercontent.com/108758105/206065213-47a2b2b9-1d36-446d-a1ee-2cdff4841163.png">
+
